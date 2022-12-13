@@ -1,0 +1,7 @@
+<resources>
+    <string name="main">Новости</string>
+    <string name="favorite">Избранное</string>
+    <string name="app_name">TestApp"</string>
+    <string name="show_more">Показать еще</string>
+    <string name="hide">Скрыть</string>
+</resources>
